@@ -4,4 +4,4 @@
 ![expriment-gearbox.jpg](https://github.com/Shanduo/Faultdiagnosis-of-gearboxes/blob/main/image/expriment-gearbox.jpg)
 ## Windturbine gearbox dataset
 The vibration signals were measured using the accelerometer on the low-speed shaft during a two-year run-to-failure process. Then the signals were recorded through the condition monitoring system (CMS). The frequency was set to 25.6 kHz. The raw data with 131072 points was recorded once a day. The wind turbine gearbox dataset was collected under five different health conditions. These health conditions include the normal state, wear fault of a bearing, ball drop fault of a bearing, cage crack fault of a bearing, and ball wear fault of a bearing.
-![windturbine-gearbox.jpg](https://github.com/Shanduo/Faultdiagnosis-of-gearboxes/blob/main/image/windturbine-gearbox.jpg）
+![windturbine-gearbox.jpg](https://github.com/Shanduo/Faultdiagnosis-of-gearboxes/blob/main/image/windturbine-gearbox.jpg)
