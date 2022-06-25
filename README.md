@@ -1,3 +1,3 @@
 # Two gearbox dataset
 ## Exprimental gearbox dataset
-![]([./folder/1.png](https://github.com/Shanduo/Faultdiagnosis-of-gearboxes/blob/main/image/expriment-gearbox.jpg)
+ The test rig is composed of a brake, a planetary gearbox, a balancing disc, a torque transducer, and an electric motor. The vibration signals were first collected using the HD-YD-232 piezoelectric accelerometer on the gearbox housing. Then the data acquisition card transformed the collected signals into the computer. The sampling frequency is 10.24 kHz. There are four kinds of gearbox faults: ring gear tooth fracture, planetary gear tooth fracture, sun wheel tooth fracture, and outer race pitting of the rolling bearing. The health conditions include the normal state, single fault, double fault, triple fault, and compound fault of rolling bearing and gear.
